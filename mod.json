@@ -1,0 +1,11 @@
+{
+    "geode": "5.10.1",
+    "gd": {
+        "android": "2.208"
+    },
+    "id": "verify.bypass.custom",
+    "name": "Verify Bypass",
+    "version": "1.0.0",
+    "developer": "sprunkiretake",
+    "description": "A custom lightweight verify bypass mod created from scratch."
+}
